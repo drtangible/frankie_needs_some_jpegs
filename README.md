@@ -83,6 +83,8 @@ Navigate to the top level directory in the Terminal window (Note: replace 'Top_L
 
 `cd Desktop/Top_Level_Folder`
 
+Make sure that you've correctly navigated to the directory. When you execute the `pwd` command, your output should be similar to `/Users/drtangible/Desktop/frankie_needs_some_jpegz`.
+
 
 **Step 5**
 
