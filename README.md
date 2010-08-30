@@ -40,33 +40,33 @@ Move the top level directory to your Desktop. Once finished, your folder structu
 
 Move the file named _rename_frankies_filez.sh_ into the top level directory.
 
-++ Desktop
+	++ Desktop
 
-	++++ Top_Level_Folder             <-- Move 'rename_frankies_filez.sh' into this directory.
+		++++ Top_Level_Folder             <-- Move 'rename_frankies_filez.sh' into this directory.
 
-		++++++ Sub_Folder_1
-			++++++++ Loan_Pic_1
-			++++++++ Loan_Pic_2
-			++++++++ Loan_Pic_3
+			++++++ Sub_Folder_1
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
 
-		++++++ Sub_Folder_2
-			++++++++ Loan_Pic_1
-			++++++++ Loan_Pic_2
-			++++++++ Loan_Pic_3
+			++++++ Sub_Folder_2
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
 
-		++++++ Sub_Folder_3
-			++++++++ Loan_Pic_1
-			++++++++ Loan_Pic_2
-			++++++++ Loan_Pic_3
+			++++++ Sub_Folder_3
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
 
-		.
-		.
-		.
+			.
+			.
+			.
 
-		++++++ Sub_Folder_100
-			++++++++ Loan_Pic_1
-			++++++++ Loan_Pic_2
-			++++++++ Loan_Pic_3
+			++++++ Sub_Folder_100
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
 
 
 
@@ -95,30 +95,30 @@ Run the command in the Terminal window.
 
 That's it! Your folder structure should now look like this:
 
-++ Desktop
+	++ Desktop
 
-	++++ Top_Level_Folder
+		++++ Top_Level_Folder
 
-		++++++ Sub_Folder_1
-			++++++++ Loan_Pic_1.jpg
-			++++++++ Loan_Pic_2.jpg
-			++++++++ Loan_Pic_3.jpg
+			++++++ Sub_Folder_1
+				++++++++ Loan_Pic_1.jpg
+				++++++++ Loan_Pic_2.jpg
+				++++++++ Loan_Pic_3.jpg
 
-		++++++ Sub_Folder_2
-			++++++++ Loan_Pic_1.jpg
-			++++++++ Loan_Pic_2.jpg
-			++++++++ Loan_Pic_3.jpg
+			++++++ Sub_Folder_2
+				++++++++ Loan_Pic_1.jpg
+				++++++++ Loan_Pic_2.jpg
+				++++++++ Loan_Pic_3.jpg
 
-		++++++ Sub_Folder_3
-			++++++++ Loan_Pic_1.jpg
-			++++++++ Loan_Pic_2.jpg
-			++++++++ Loan_Pic_3.jpg
+			++++++ Sub_Folder_3
+				++++++++ Loan_Pic_1.jpg
+				++++++++ Loan_Pic_2.jpg
+				++++++++ Loan_Pic_3.jpg
 
-		.
-		.
-		.
+			.
+			.
+			.
 
-		++++++ Sub_Folder_100
-			++++++++ Loan_Pic_1.jpg
-			++++++++ Loan_Pic_2.jpg
-			++++++++ Loan_Pic_3.jpg
+			++++++ Sub_Folder_100
+				++++++++ Loan_Pic_1.jpg
+				++++++++ Loan_Pic_2.jpg
+				++++++++ Loan_Pic_3.jpg
