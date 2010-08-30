@@ -6,33 +6,34 @@ Back up your files, in case this goes horribly wrong.
 
 Move the top level directory to your Desktop. Once finished, your folder structure should look like this:
 
-`++ Desktop
+	++ Desktop
 
-++++ Top_Level_Folder
+		++++ Top_Level_Folder
 
-++++++ Sub_Folder_1
-++++++++ Loan_Pic_1
-++++++++ Loan_Pic_2
-++++++++ Loan_Pic_3
-                   
-++++++ Sub_Folder_2
-++++++++ Loan_Pic_1
-++++++++ Loan_Pic_2
-++++++++ Loan_Pic_3
-                   
-++++++ Sub_Folder_4
-++++++++ Loan_Pic_1
-++++++++ Loan_Pic_2
-++++++++ Loan_Pic_3
+			++++++ Sub_Folder_1
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
 
-.
-.
-.
+			++++++ Sub_Folder_2
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
 
-++++++ Sub_Folder_100
-++++++++ Loan_Pic_1
-++++++++ Loan_Pic_2
-++++++++ Loan_Pic_3`
+			++++++ Sub_Folder_3
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
+
+			.
+			.
+			.
+
+			++++++ Sub_Folder_100
+				++++++++ Loan_Pic_1
+				++++++++ Loan_Pic_2
+				++++++++ Loan_Pic_3
+
 
 
 **Step 3**
