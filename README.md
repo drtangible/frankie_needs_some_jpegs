@@ -6,33 +6,33 @@ Back up your files, in case this goes horribly wrong.
 
 Move the top level directory to your Desktop. Once finished, your folder structure should look like this:
 
-`++ Desktop`
+`++ Desktop
 
-`++++ Top_Level_Folder`
+++++ Top_Level_Folder
 
-`++++++ Sub_Folder_1`
-`++++++++ Loan_Pic_1`
-`++++++++ Loan_Pic_2`
-`++++++++ Loan_Pic_3`
+++++++ Sub_Folder_1
+++++++++ Loan_Pic_1
+++++++++ Loan_Pic_2
+++++++++ Loan_Pic_3
+                   
+++++++ Sub_Folder_2
+++++++++ Loan_Pic_1
+++++++++ Loan_Pic_2
+++++++++ Loan_Pic_3
+                   
+++++++ Sub_Folder_4
+++++++++ Loan_Pic_1
+++++++++ Loan_Pic_2
+++++++++ Loan_Pic_3
 
-`++++++ Sub_Folder_2`
-`++++++++ Loan_Pic_1`
-`++++++++ Loan_Pic_2`
-`++++++++ Loan_Pic_3`
+.
+.
+.
 
-`++++++ Sub_Folder_4`
-`++++++++ Loan_Pic_1`
-`++++++++ Loan_Pic_2`
-`++++++++ Loan_Pic_3`
-
-`.`
-`.`
-`.`
-
-`++++++ Sub_Folder_100`
-`++++++++ Loan_Pic_1`
-`++++++++ Loan_Pic_2`
-`++++++++ Loan_Pic_3`
+++++++ Sub_Folder_100
+++++++++ Loan_Pic_1
+++++++++ Loan_Pic_2
+++++++++ Loan_Pic_3`
 
 
 **Step 3**
@@ -91,6 +91,36 @@ Run the command in the Terminal window.
 `./_rename_frankies_filez.sh`
 
 
+**Step 6**
+
+That's it! Your folder structure should now look like this:
 
 
+`++ Desktop`
+
+`++++ Top_Level_Folder`
+
+`++++++ Sub_Folder_1`
+`++++++++ Loan_Pic_1.jpg`
+`++++++++ Loan_Pic_2.jpg`
+`++++++++ Loan_Pic_3.jpg`
+
+`++++++ Sub_Folder_2`
+`++++++++ Loan_Pic_1.jpg`
+`++++++++ Loan_Pic_2.jpg`
+`++++++++ Loan_Pic_3.jpg`
+
+`++++++ Sub_Folder_4`
+`++++++++ Loan_Pic_1.jpg`
+`++++++++ Loan_Pic_2.jpg`
+`++++++++ Loan_Pic_3.jpg`
+
+`.`
+`.`
+`.`
+
+`++++++ Sub_Folder_100`
+`++++++++ Loan_Pic_1.jpg`
+`++++++++ Loan_Pic_2.jpg`
+`++++++++ Loan_Pic_3.jpg`
 
